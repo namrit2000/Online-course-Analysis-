@@ -24,9 +24,6 @@ An interactive Power BI dashboard analyzing EdTech course data to surface key in
   - Skill count and skill popularity by category
 - Designed visuals including pie charts, line charts, word clouds, and tables for easy stakeholder understanding.
 
-## 💼 Business Impact
-Helped identify that top 5 course categories drive a **22% higher engagement rate**, allowing EdTech companies to focus content production on high-demand topics.
-
 ## 🔗 Live Dashboard Link
 https://app.powerbi.com/links/jR1FK3S5ri?ctid=a8eec281-aaa3-4dae-ac9b-9a398b9215e7&pbi_source=linkShare
 
